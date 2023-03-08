@@ -10,4 +10,4 @@ Twitter users from the UK will more often use the present perfect than Twitter u
 
 ## method
 
-![contingency table](https://github.com/SemHuis/research_methods/contingency_table.png "Figure 1")
+![contingency table](https://github.com/SemHuis/research_methods/blob/main/contingency_table.png "Figure 1")
